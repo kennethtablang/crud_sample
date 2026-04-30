@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* vh is viewport height */
+  margin: 0;
+}
+main {
+  flex: 1; /* This allows the main content to expand and fill the available space */
+}
+footer {
+  flex-shrink: 0; /* Ensures the footer doesn't shrink */
+  /* Add any other footer styling you need here */
+}
