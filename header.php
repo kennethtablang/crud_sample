@@ -16,7 +16,7 @@
     <!-- ===== NAVBAR ===== -->
     <nav class="navbar navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="index.php">🎓 Student CRUD</a>
+            <a class="navbar-brand" href="index.php">Student CRUD</a>
             <a href="add.php" class="btn btn-success">+ Add Student</a>
         </div>
     </nav>
